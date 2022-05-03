@@ -1,2 +1,5 @@
 Zmiana w pliku
 Inna wersja niz poprzednia
+
+
+Dodanie nowej funkcjonalnosci.
